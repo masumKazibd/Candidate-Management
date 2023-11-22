@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Candidate_Portal_Auth.props" />
+</Project>
